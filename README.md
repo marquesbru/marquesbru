@@ -1,16 +1,25 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**marquesbru/marquesbru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Meu nome é Bruno Marques da Silva.<br>
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  📢 Áreas de interesse:<br>
+   - Engenharia de Dados<br>
+   - Ciência de Dados<br>
+   - Desenvolvimento Backend com Python<br>
+   - Banco de Dados<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  🤖 Programação: Python, SQL, Selenium, ETL, Pandas.
+</p>
+
+<p align="left">
+  💼 Ferramentas: Excel, n8n, Docker
+</p>
+
+<p align="left">
+  <a href="linkedin.com/in/marquesbru" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+</p>
